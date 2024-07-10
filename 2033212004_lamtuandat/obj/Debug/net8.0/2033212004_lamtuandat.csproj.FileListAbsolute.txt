@@ -1,0 +1,14 @@
+C:\Users\lamtu\source\repos\2033212004_lamtuandat\2033212004_lamtuandat\bin\Debug\net8.0\2033212004_lamtuandat.exe
+C:\Users\lamtu\source\repos\2033212004_lamtuandat\2033212004_lamtuandat\bin\Debug\net8.0\2033212004_lamtuandat.deps.json
+C:\Users\lamtu\source\repos\2033212004_lamtuandat\2033212004_lamtuandat\bin\Debug\net8.0\2033212004_lamtuandat.runtimeconfig.json
+C:\Users\lamtu\source\repos\2033212004_lamtuandat\2033212004_lamtuandat\bin\Debug\net8.0\2033212004_lamtuandat.dll
+C:\Users\lamtu\source\repos\2033212004_lamtuandat\2033212004_lamtuandat\bin\Debug\net8.0\2033212004_lamtuandat.pdb
+C:\Users\lamtu\source\repos\2033212004_lamtuandat\2033212004_lamtuandat\obj\Debug\net8.0\2033212004_lamtuandat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamtu\source\repos\2033212004_lamtuandat\2033212004_lamtuandat\obj\Debug\net8.0\2033212004_lamtuandat.AssemblyInfoInputs.cache
+C:\Users\lamtu\source\repos\2033212004_lamtuandat\2033212004_lamtuandat\obj\Debug\net8.0\2033212004_lamtuandat.AssemblyInfo.cs
+C:\Users\lamtu\source\repos\2033212004_lamtuandat\2033212004_lamtuandat\obj\Debug\net8.0\2033212004_lamtuandat.csproj.CoreCompileInputs.cache
+C:\Users\lamtu\source\repos\2033212004_lamtuandat\2033212004_lamtuandat\obj\Debug\net8.0\2033212004_lamtuandat.dll
+C:\Users\lamtu\source\repos\2033212004_lamtuandat\2033212004_lamtuandat\obj\Debug\net8.0\refint\2033212004_lamtuandat.dll
+C:\Users\lamtu\source\repos\2033212004_lamtuandat\2033212004_lamtuandat\obj\Debug\net8.0\2033212004_lamtuandat.pdb
+C:\Users\lamtu\source\repos\2033212004_lamtuandat\2033212004_lamtuandat\obj\Debug\net8.0\2033212004_lamtuandat.genruntimeconfig.cache
+C:\Users\lamtu\source\repos\2033212004_lamtuandat\2033212004_lamtuandat\obj\Debug\net8.0\ref\2033212004_lamtuandat.dll
